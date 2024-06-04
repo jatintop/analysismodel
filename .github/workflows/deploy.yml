@@ -30,6 +30,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACCESS_TOKEN }}
-          publish_dir: ./  # Change this if your Flask app files are in a different directory
+          publish_dir: ./app.py
           publish_branch: gh-pages
           cname: yourcustomdomain.com  # Optional: if you have a custom domain
