@@ -155,7 +155,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any queries or suggestions, please contact [your email address].
+For any queries or suggestions, please contact jatintopakar@yahoo.com.
 
 ---
 
