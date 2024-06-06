@@ -138,10 +138,6 @@ new_df['Failure Mode'] = new_df['FaultD'].apply(extract_failure_mode)
 new_df.to_excel(output_file_path, index=False)
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
