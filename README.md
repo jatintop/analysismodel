@@ -37,7 +37,7 @@ This project aims to classify automotive fault descriptions into predefined comp
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/fault-description-classification.git
+    git clone https://github.com/jatintop/fault-description-classification.git
     cd fault-description-classification
     ```
 
@@ -156,7 +156,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For any queries or suggestions, please contact jatintopakar@yahoo.com.
-
----
-
-Feel free to customize this `README.md` file as needed for your specific project and repository on GitHub.
